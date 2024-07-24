@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-	<h4> ⚒️ Tech Stack ⚒️</h4>
+	<h4>⚒️ Tech Stack ⚒️</h4>
 	<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
 	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
 	<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white">
@@ -23,10 +23,10 @@
 <br/>
 
 <div align="center">
-	<h4> 👻 Tool 👻</h4>
+	<h4>👻 Tool 👻</h4>
 	<img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJ IDEA#000000&logoColor=white">
-	  <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
-	<img src="https://img.shields.io/badge/figma-F24E1E.svg?style=flat-square&logo=figma&logoColor=white" />&nbsp
+	<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
+	<img src="https://img.shields.io/badge/figma-F24E1E.svg?style=flat-square&logo=figma&logoColor=white" />
 </div>
 
 <br/>
@@ -34,20 +34,21 @@
 <div align="center">
 	<h4>📧 SNS 📧</h4>
 	<a href="https://suahh.tistory.com">
-		  <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=orange">
+		<img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=orange">
 	</a>
 	<a href="mailto:sue000504@gmail.com">
-		  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
+		<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
 	</a>
 </div>
 <br/>
 <div align="center">
 	<h3>:pencil2: Study log :pencil2:</h3> 
-	[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimsuahh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+	<a href="https://github.com/anuraghazra/github-readme-stats">
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimsuahh&layout=compact" alt="Top Langs" />
+	</a>
 </div>
 <br/>
 <div align="center">
 	<h3>🍀 solved.ac 🍀</h3>
 	<img src="http://mazandi.herokuapp.com/api?handle=sue000504&theme=warm"/>
 </div>
-
