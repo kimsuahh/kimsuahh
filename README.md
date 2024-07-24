@@ -42,13 +42,13 @@
 </div>
 <br/>
 <div align="center">
-	<h3>:pencil2: Study log :pencil2:</h3> 
+	<h4>:pencil2: Study log :pencil2:</h4> 
 	<a href="https://github.com/anuraghazra/github-readme-stats">
 		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimsuahh&layout=compact" alt="Top Langs" />
 	</a>
 </div>
 <br/>
 <div align="center">
-	<h3>🍀 solved.ac 🍀</h3>
+	<h4>🍀 solved.ac 🍀</h4>
 	<img src="http://mazandi.herokuapp.com/api?handle=sue000504&theme=warm"/>
 </div>
