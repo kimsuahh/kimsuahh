@@ -41,10 +41,13 @@
 	</a>
 </div>
 <br/>
-
-<h3>:pencil2: Study log :pencil2:</h3> 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimsuahh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<h3>🍀 solved.ac 🍀</h3>
-<img src="http://mazandi.herokuapp.com/api?handle=sue000504&theme=warm"/>
+<div align="center">
+	<h3>:pencil2: Study log :pencil2:</h3> 
+	[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimsuahh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+<br/>
+<div align="center">
+	<h3>🍀 solved.ac 🍀</h3>
+	<img src="http://mazandi.herokuapp.com/api?handle=sue000504&theme=warm"/>
+</div>
 
