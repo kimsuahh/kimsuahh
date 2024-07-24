@@ -1,6 +1,5 @@
 ## Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi there;suah's Github)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi there;suah's Github)]
 <!--
 **kimsuahh/kimsuahh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
