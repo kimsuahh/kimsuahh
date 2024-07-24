@@ -32,7 +32,13 @@
 
 <div align="center">
 	<p>📧Email📧</p>
-	<img src="https://img.shields.io/badge/sjsin0905@naver.com-03C75A?style=flat&logo=Naver&logoColor=white"/>
+	<h4>🎨 SNS 🎨</h4>
+	<a href="https://suahh.tistory.com">
+		  <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=orange">
+	</a>
+	<a href="mailto:sue000504@gmail.com">
+		  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
+	</a>
 </div>
 <br/>
 
