@@ -18,7 +18,7 @@
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=style=flat-square&logo=MySQL&logoColor=white" />
 </div>
 
-<br>
+<br/>
 
 <div align="center">
 	<p>👻hobby👻</p>
@@ -28,10 +28,17 @@
 	<img src="https://img.shields.io/badge/csharp-239120?style=flat&logo=csharp&logoColor=white" />
 </div>
 
-<br>
+<br/>
 
 <div align="center">
 	<p>📧Email📧</p>
 	<img src="https://img.shields.io/badge/sjsin0905@naver.com-03C75A?style=flat&logo=Naver&logoColor=white"/>
 </div>
-<br>
+<br/>
+
+<h3>:pencil2: Study log :pencil2:</h3> 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimsuahh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<h3>🍀 solved.ac 🍀</h3>
+<img src="http://mazandi.herokuapp.com/api?handle=sue000504&theme=warm"/>
+
